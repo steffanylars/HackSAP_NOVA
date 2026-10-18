@@ -1,4 +1,6 @@
 # NOVA — Sistema de Detección de Amenazas en Tiempo Real para SAP
+
+> 🏆 **1st Place — Hack IDM x SAP 2026 (SAP × SEIDM, Tecnológico de Monterrey)**
 **Hack IDM x SAP 2026 | Live Security Operations Center Defense**
 
 NOVA es un sistema de detección de anomalías no supervisado que monitorea logs de SAP en tiempo real, detecta ataques de ciberseguridad y envía alertas automáticas en menos de 3 segundos.
